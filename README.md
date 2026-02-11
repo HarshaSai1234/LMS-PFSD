@@ -1,4 +1,4 @@
-# Learning Management System (LMS)
+# Learning Management System (LMS) - PS06
 
 ## Problem Description
 Online education requires a structured system for managing courses, students, and assessments. This Django-based LMS enables instructors to create courses and track student progress digitally. Students can access learning materials, submit assignments, and receive grades. The platform enhances remote learning efficiency.
